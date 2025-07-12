@@ -9,6 +9,9 @@
 
 ---
 
+<img width="1190" height="794" alt="image" src="https://github.com/user-attachments/assets/7c8cdb18-59cc-479e-b46a-d6a8d51783ec" />
+
+
 ## 🚀 Get Value, Free!
 
 This repo offers **hundreds of n8n workflows** (thousands of dollars in value!) for projects benefiting the community. My "Free For Community Use" (FFCU) license makes them available to you. It's about **mutual uplift** and being **more efficient when we work together!**
