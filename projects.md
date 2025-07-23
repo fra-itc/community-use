@@ -26,4 +26,4 @@ Applying is straightforward. You'll propose your project by adding it to this li
 
 [FusePress](https://fusepress.co) - FusePress eliminates inefficiencies in managing WordPress websites with a unified platform for plugin licensing, deployment, and support
 
-[PETMIND 🐾](https://github.com/fra-itc/petmind) — AI Helpdesk open-source per canili/gattili. Powered by Zammad, n8n, WebUI & LLM agent.
+[PETMIND 🐾](https://github.com/fra-itc/petmind) - AI Helpdesk open-source per canili/gattili. Powered by Zammad, n8n, WebUI & LLM agent.
