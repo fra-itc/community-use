@@ -20,8 +20,20 @@ Applying is straightforward. You'll propose your project by adding it to this li
 
 ---
 
+## Submitted Project Applications (Under Review)
+
+
+[<img width="100%" height="auto" alt="festical" src="https://github.com/user-attachments/assets/35a3b3d2-a809-4759-bb37-d8622407f21a" />](https://festical.co.uk)
+
+
+[Festical](https://festical.co.uk) - Festical is a UK music festival database being designed to serve festival staff, build crews, volunteers, and traders. 
+
+---
+
 ## Approved Community Projects
 
 (Add your project below this line, following the instructions above.)
 
 [FusePress](https://fusepress.co) - FusePress eliminates inefficiencies in managing WordPress websites with a unified platform for plugin licensing, deployment, and support
+
+
