@@ -36,4 +36,4 @@ Applying is straightforward. You'll propose your project by adding it to this li
 
 [FusePress](https://fusepress.co) - FusePress eliminates inefficiencies in managing WordPress websites with a unified platform for plugin licensing, deployment, and support
 
-
+[n8node](https://n8node.ru) - The community of business process automators using n8n in Russia
