@@ -25,16 +25,19 @@ Applying is straightforward. You'll propose your project by adding it to this li
 
 [<img width="100%" height="auto" alt="festical" src="https://github.com/user-attachments/assets/35a3b3d2-a809-4759-bb37-d8622407f21a" />](https://festical.co.uk)
 
-
-[Festical](https://festical.co.uk) - Festical is a UK music festival database being designed to serve festival staff, build crews, volunteers, and traders. 
-[Hungry Onion](https://www.hungryonion.org) - Hungry Onion is an active, free and no-revenue community based on the open source Discourse platform that encourages thoughtful discussions amongst serious food lovers on dining out and cooking.  
-
 ---
 
 ## Approved Community Projects
 
 (Add your project below this line, following the instructions above.)
 
+[Festical](https://festical.co.uk) - Festical is a UK music festival database being designed to serve festival staff, build crews, volunteers, and traders. 
+
+[Hungry Onion](https://www.hungryonion.org) - Hungry Onion is an active, free and no-revenue community based on the open source Discourse platform that encourages thoughtful discussions amongst serious food lovers on dining out and cooking.  
+
 [FusePress](https://fusepress.co) - FusePress eliminates inefficiencies in managing WordPress websites with a unified platform for plugin licensing, deployment, and support
+
+[PETMIND 🐾](https://github.com/fra-itc/petmind) — AI Helpdesk open-source per canili/gattili. Powered by Zammad, n8n, WebUI & LLM agent.
+
 [n8node](https://n8node.ru) - The community of business process automators using n8n in Russia
 
